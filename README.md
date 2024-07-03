@@ -19,7 +19,7 @@
 
   - 💬 Olá! Eu sou o Matheus. Tenho 20 anos e estudei Desenvolvimento de Sistemas na Etec. Tenho um grande interesse por Java e JavaScript, e gosto de criar projetos que tenham um impacto positivo no meio social. Estou planejando cursar Análise e Desenvolvimento de Sistemas (ADS) na faculdade para aprofundar ainda mais meus conhecimentos e habilidades nessa área.
 
-  - ⚡ Eu gosto de programar jogos, sites e interfaces gráficas. Meu hobby é voltado para o front-end, onde crio designs e depois os animo com programação. Também gosto de trabalhar com bancos de dados como MySQL, SQL Server e Oracle. Estou sempre estudando sobre isso e sobre front-end também.
+  - ⚡ Eu gosto de programar jogos, sites e interfaces gráficas. Meu hobby é voltado para o front-end, onde crio designs e depois os animo com programação. Também gosto de trabalhar com bancos de dados como MySQL, SQL Server e Oracle, e estou sempre estudando em busca de novos conhecimentos.
 </details>
 
 <!-- Links -->
