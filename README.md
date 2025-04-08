@@ -9,6 +9,7 @@
   Olá, sejam bem-vindos(as). Eu sou o Matheus!👋
   
   -  🌱 Cursei o Técnico em Desenvolvimento de Sistemas na Etec de Guaianases.
+  -  🌱 Atualmente estou na faculdade SPTech cursando ADS
     
   - 🔭 Estou sempre buscando estudar com cursos pagos ou gratuitos relacionados à programação!
 </p>
