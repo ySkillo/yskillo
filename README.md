@@ -32,10 +32,8 @@
 
 
 <!-- GithubStats -->
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yskillo)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yskillo&layout=compact)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yskillo&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yskillo&layout=compact&cache_seconds=1800)
 
 
 
