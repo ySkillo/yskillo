@@ -6,6 +6,7 @@
 </div>
 
 <!-- Presentation -->
+<img align="center" alt="CSHARP" height="100%" width="100%" src="https://user-images.githubusercontent.com/110926406/255982235-b8e9411d-ece5-4774-9bc2-5bb9e8d320d3.png">
 <p>
   Olá, sejam bem-vindos(as). Eu sou o Matheus!👋
   
@@ -26,9 +27,19 @@
 
 <!-- Links -->
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_aurum_tech/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus.gfront@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-gomes-40a529222/)
+<p align="center">
+  <a href="https://www.instagram.com/_aurum_tech/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="mailto:matheus.gfront@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/matheus-gomes-40a529222/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 
 
