@@ -66,6 +66,7 @@
 </p> -->
 ## Destaque de Projetos
  - <a href="https://github.com/ySkillo/Desafio-ToDoList">API RESTful de Gerenciamento de Tarefast</a>
+ - <a href="https://github.com/Illumi-Etec/litera">Litera - Suíte de Jogos Educacionais</a>
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
