@@ -74,7 +74,7 @@
     <img src="https://streak-stats.demolab.com/?user=yskillo&theme=default" alt="GitHub Streak" />
   </a>
 </p>
-  <div style="flex-basis: 48%;">
+  <div style="flex-basis: 48%;" align="center">
     <h3>Linguagens de Programação</h3>
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <!-- <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -87,7 +87,7 @@
 
   
   <!-- Skills: Tools & Frameworks -->
-  <div style="flex-basis: 48%;">
+  <div style="flex-basis: 48%;" align="center">
     <h3>Ferramentas e Frameworks</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="Eclipse" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg">
@@ -107,7 +107,7 @@
 </picture>
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=F7F7F7&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
 </h1>
 
 
