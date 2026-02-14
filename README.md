@@ -54,14 +54,14 @@
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p> -->
 
+
+## 🔥 Skills
+<!-- Skills: Programming Languages -->
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=yskillo&theme=dark" alt="GitHub Streak" />
   </a>
 </p>
-
-## 🔥 Skills
-<!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>Linguagens de Programação</h3>
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
