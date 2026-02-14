@@ -59,7 +59,7 @@
 <!-- Skills: Programming Languages -->
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=yskillo&theme=dark" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=yskillo&theme=default" alt="GitHub Streak" />
   </a>
 </p>
   <div style="flex-basis: 48%;">
