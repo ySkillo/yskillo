@@ -19,9 +19,9 @@
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
 
-  - 💬 Olá! Eu sou o Matheus. Tenho 20 anos e estudei Desenvolvimento de Sistemas na Etec. Tenho um grande interesse por Java e JavaScript, e gosto de criar projetos que tenham um impacto positivo no meio social. Estou planejando cursar Análise e Desenvolvimento de Sistemas (ADS) na faculdade para aprofundar ainda mais meus conhecimentos e habilidades nessa área.
+  - 💬 Olá! Eu sou o Matheus. Tenho 21 anos e estudei Desenvolvimento de Sistemas na Etec. Tenho um grande interesse por Java, JavaScript e CSharp, gosto de criar projetos que tenham um impacto positivo no meio social.
 
-  - ⚡ Eu gosto de programar jogos, sites e interfaces gráficas. Meu hobby é voltado para o front-end, onde crio designs e depois os animo com programação. Também gosto de trabalhar com bancos de dados como MySQL, SQL Server e Oracle, e estou sempre estudando em busca de novos conhecimentos.
+  - ⚡ Eu gosto de programar jogos, sites, interfaces gráficas e aplicativos. Também gosto de trabalhar com bancos de dados como MySQL, SQL Server e Oracle, e estou sempre estudando em busca de novos conhecimentos.
 </details>
 
 <!-- Links -->
@@ -53,7 +53,8 @@
 <p align="left">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p> -->
-
+## 👨‍💻 Projetos
+ - <a href="#">API desenvolvida para o desafio To-Do-List</a>
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
