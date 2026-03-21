@@ -64,10 +64,10 @@
 <p align="left">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p> -->
-## Destaque de Projetos
+<!-- ## Destaque de Projetos
  - <a href="https://github.com/ySkillo/Desafio-ToDoList">API RESTful de Gerenciamento de Tarefast</a>
  - <a href="https://github.com/Illumi-Etec/litera">Litera - Suíte de Jogos Educacionais</a>
- - <a href="https://github.com/Illumi-Etec/illumi">Illumi | Desenvolvimento e Softwares - Site Institucional do projeto - Litera</a>
+ - <a href="https://github.com/Illumi-Etec/illumi">Illumi | Desenvolvimento e Softwares - Site Institucional do projeto - Litera</a> -->
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
