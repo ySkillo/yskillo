@@ -91,7 +91,7 @@
 </picture>
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=F7F7F7&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
+<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=13&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=435&lines=Ei+desenvolvedor(a),+volte+sempre!" alt="subtitle" />
 </h1>
 
 
