@@ -1,64 +1,62 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=13&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=435&lines=desenvolvedor+%2F+estudante+%2F+criador" alt="subtitle" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0d1117,50:4c1d95,100:8b5cf6&text=MATHEUS%20GOMES&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=PLAYER%20ONE%20%C2%B7%20desenvolvedor%20%2F%20estudante%20%2F%20criador&descAlignY=58&descSize=15" alt="Matheus Gomes" />
 
-# Matheus Gomes
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=820&height=40&lines=%3E+Full-Stack+Developer+%2F%2F+.NET+%2B+React+%2B+Spring+Boot;Java+%7C+JavaScript+%7C+C%23+%7C+PHP;Interfaces+%7C+Jogos+%7C+Aplicativos;Sempre+aprendendo+algo+novo." alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&duration=2500&pause=800&color=333333&center=true&vCenter=true&width=500&lines=Java+%7C+JavaScript+%7C+C%23+%7C+PHP;Full-stack:+.NET+%2B+React+%2B+Spring+Boot;Interfaces+%7C+Jogos+%7C+Aplicativos;Sempre+aprendendo+algo+novo." alt="Typing SVG" />
+<br/>
+
+![Status](https://img.shields.io/badge/STATUS-ONLINE-22c55e?style=for-the-badge&labelColor=0d1117)
+![Classe](https://img.shields.io/badge/CLASSE-FULL--STACK-8b5cf6?style=for-the-badge&labelColor=0d1117)
+![Base](https://img.shields.io/badge/BASE-S%C3%83O%20PAULO%20%F0%9F%87%A7%F0%9F%87%B7-0ea5e9?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
----
-
 <br/>
 
+## 🎮 Ficha do jogador
+
 ```
-📍 São Paulo, Brasil
-🎓 ADS — SPTech  |  Téc. Desenvolvimento de Sistemas — Etec Guaianases
-💡 Interesse: projetos com impacto social
-🎮 Gosto de: jogos, interfaces gráficas, bancos de dados, programação backend e front-end
+┌─ PLAYER 1 ─────────────────────────────────────────
+│ NOME      Matheus Gomes  (ySkillo)
+│ CLASSE    Full-Stack Developer
+│ GUILDA    SPTech · Análise e Desenvolvimento de Sistemas
+│ ORIGEM    Etec Guaianases · Téc. Desenvolvimento de Sistemas
+│ BASE      São Paulo, Brasil
+│ MISSÃO    Criar software com impacto social
+│ GOSTA DE  jogos · interfaces gráficas · bancos de dados
+│           backend e front-end
+└────────────────────────────────────────────────────
 ```
 
-<br/>
+Desenvolvedor full-stack com foco em **backend com C#/.NET 8** (ASP.NET Core, EF Core) e **Java/Spring Boot**, e no front com **React** e **React Native/Expo**. Gosto de construir produtos do começo ao fim, da modelagem do banco e da API até a interface, com boas práticas e código organizado.
 
 ---
 
-## 👋 Sobre mim
+## 📊 Atributos
 
-Sou desenvolvedor full-stack, com foco em **backend com C#/.NET 8** (ASP.NET Core, EF Core) e **Java/Spring Boot**, e no front com **React** e **React Native/Expo**. Gosto de construir produtos do começo ao fim: da modelagem do banco e da API até a interface, aplicando boas práticas, organização de código e princípios de desenvolvimento de software.
-
-Meus projetos são, ao mesmo tempo, portfólio e laboratório de estudo. É neles que eu pratico arquitetura em camadas, **Clean Architecture**, autenticação, containerização e integração com APIs externas.
-
-- 🧱 Estudando: Clean Architecture, Modular Monolith, Docker (do zero) e LLMs locais com .NET
-- 🎯 Foco: construir software que resolve problemas reais
-- 🌱 Sempre aberto a aprender e a trocar ideia
-
----
-
-## 🚀 Projetos em destaque
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| 💜 **[Planeja+ (Lilac Pay)](https://github.com/ySkillo/lilacpay)** | App de finanças pessoais: *"planeje mais, se preocupe menos"*. Login com CPF validado, verificação por e-mail, tela de cofre/economias. | React Native · Expo · ASP.NET Core 8 · EF Core · MySQL · JWT |
-| 🛒 **Saint Geek Comic Shop** | E-commerce geek **real**, criado para um cliente não depender de plataformas com taxas abusivas. Tem chat, página de bot com integração à API do Claude e perfil de usuário. | React · Tailwind CSS · Framer Motion · Spring Boot |
-| 🔔 **Brend AI** | Agregador inteligente de notificações de desktop (GitHub, LinkedIn, WhatsApp) em widget na bandeja do Windows. | Electron · React · .NET 8 · Next.js |
-| 💬 **Happy Chat** | Chat em tempo real com frontend desktop e backend em .NET. *(em desenvolvimento)* | Electron · electron-vite · ASP.NET Core |
-| 🎬 **FilmesApi** | Projeto base da arquitetura em camadas que reutilizo nos demais. Já containerizado com Docker + MySQL. | ASP.NET Core · EF Core · AutoMapper · Docker |
-| 🎓 **[Litera](https://github.com/Illumi-Etec/litera)** | Suíte de jogos educacionais. | Projeto em equipe (Illumi) |
-| 🌐 **[Illumi](https://github.com/Illumi-Etec/illumi)** | Site institucional do projeto Litera. | Projeto em equipe (Illumi) |
-| ✅ **[Desafio ToDoList](https://github.com/ySkillo/Desafio-ToDoList)** | API RESTful de gerenciamento de tarefas. | API REST |
-
-> 💡 Novos projetos em breve!
+```
+BACKEND    C# · .NET 8        ▰▰▰▰▰▰▰▰▱▱
+           Java · Spring      ▰▰▰▰▰▰▱▱▱▱
+FRONTEND   React · RN/Expo    ▰▰▰▰▰▰▰▰▱▱
+DADOS      MySQL · EF Core    ▰▰▰▰▰▰▰▱▱▱
+DEVOPS     Docker             ▰▰▰▰▱▱▱▱▱▱   ← subindo de nível
+ARQUITETURA  Clean Arch.      ▰▰▰▰▰▱▱▱▱▱   ← em treino
+```
 
 ---
 
-## 🔥 Skills
+## 🏆 Conquistas desbloqueadas
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=yskillo&theme=default" alt="GitHub Streak" />
-  </a>
-</p>
+- 🛒 **Cliente real:** e-commerce criado para um cliente de verdade
+- 📱 **Mobile:** app React Native/Expo com builds de APK via EAS
+- 🔐 **Segurança:** autenticação JWT, hash com BCrypt e validação de CPF
+- 🐳 **Containers:** API .NET rodando com Docker + MySQL
+- 🤖 **IA:** integração com a API do Claude em um e-commerce
+
+---
+
+## 🎒 Inventário
 
 <div align="center">
 
@@ -88,7 +86,7 @@ Meus projetos são, ao mesmo tempo, portfólio e laboratório de estudo. É nele
 
 <br/><br/>
 
-### o que venho usando nos projetos
+### itens equipados nos projetos
 
 <br/>
 
@@ -105,17 +103,15 @@ Meus projetos são, ao mesmo tempo, portfólio e laboratório de estudo. É nele
 
 </div>
 
-<br/>
-
-**Também no meu dia a dia:** APIs REST · JWT · EF Core · Clean Architecture · Docker Compose · UI/UX · bancos de dados relacionais · Git/GitHub
-
 ---
 
-## 🎮 Fora do código
+## 📈 Histórico de partida
 
-Sou fã de cultura geek e gamer, e isso aparece nos nomes e nas ideias dos meus projetos (Saint Geek, exusData, DevQuest). Também tenho interesse em projetos com impacto social, e é nessa direção que quero crescer.
-
----
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=yskillo&theme=dark&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" alt="GitHub Streak" />
+  </a>
+</p>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yskillo/yskillo/output/github-contribution-grid-snake-dark.svg">
@@ -123,6 +119,23 @@ Sou fã de cultura geek e gamer, e isso aparece nos nomes e nas ideias dos meus 
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yskillo/yskillo/output/github-contribution-grid-snake.svg">
 </picture>
 
-<h1 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=13&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=435&lines=Ei+desenvolvedor(a),+volte+sempre!" alt="subtitle" />
-</h1>
+---
+
+## 🕹️ PRESS START
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/matheus-gomes-40a529222/">
+    <img src="https://img.shields.io/badge/LinkedIn-Matheus_Gomes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:matheus.gfront@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-matheus.gfront@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&height=30&lines=Ei+desenvolvedor(a)%2C+volte+sempre!;Insert+coin+to+collaborate+%E2%96%B6" alt="subtitle" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:8b5cf6,50:4c1d95,100:0d1117&section=footer" alt="" />
+
+</div>
