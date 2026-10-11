@@ -47,7 +47,6 @@ Meus projetos são, ao mesmo tempo, portfólio e laboratório de estudo. É nele
 | 🎓 **[Litera](https://github.com/Illumi-Etec/litera)** | Suíte de jogos educacionais. | Projeto em equipe (Illumi) |
 | 🌐 **[Illumi](https://github.com/Illumi-Etec/illumi)** | Site institucional do projeto Litera. | Projeto em equipe (Illumi) |
 | ✅ **[Desafio ToDoList](https://github.com/ySkillo/Desafio-ToDoList)** | API RESTful de gerenciamento de tarefas. | API REST |
-| 🚀 **[StellarHorizon](https://github.com/ySkillo/stellarhorizon)** | Projeto de empresa fictícia. | Web |
 
 > 💡 Novos projetos em breve!
 
