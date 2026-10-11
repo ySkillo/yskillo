@@ -17,16 +17,16 @@
 ## 🎮 Ficha do jogador
 
 ```
-┌─ PLAYER 1 ─────────────────────────────────────────
-│ NOME      Matheus Gomes  (ySkillo)
-│ CLASSE    Full-Stack Developer
-│ GUILDA    SPTech · Análise e Desenvolvimento de Sistemas
-│ ORIGEM    Etec Guaianases · Téc. Desenvolvimento de Sistemas
-│ BASE      São Paulo, Brasil
-│ MISSÃO    Criar software com impacto social
-│ GOSTA DE  jogos · interfaces gráficas · bancos de dados
-│           backend e front-end
-└────────────────────────────────────────────────────
+┌─ PLAYER 1 ───────────────────────────────────────────────────────────┐
+│ NOME      Matheus Gomes  (ySkillo)                                   │
+│ CLASSE    Full-Stack Developer                                       │
+│ GUILDA    SPTech · Análise e Desenvolvimento de Sistemas             │
+│ ORIGEM    Etec Guaianases · Téc. Desenvolvimento de Sistemas         │
+│ BASE      São Paulo, Brasil                                          │
+│ MISSÃO    Criar software com impacto social                          │
+│ GOSTA DE  jogos · interfaces gráficas · bancos de dados              │
+│           backend e front-end                                        │
+└──────────────────────────────────────────────────────────────────────┘
 ```
 
 Desenvolvedor full-stack com foco em **backend com C#/.NET 8** (ASP.NET Core, EF Core) e **Java/Spring Boot**, e no front com **React** e **React Native/Expo**. Gosto de construir produtos do começo ao fim, da modelagem do banco e da API até a interface, com boas práticas e código organizado.
@@ -36,13 +36,42 @@ Desenvolvedor full-stack com foco em **backend com C#/.NET 8** (ASP.NET Core, EF
 ## 📊 Atributos
 
 ```
-BACKEND    C# · .NET 8        ▰▰▰▰▰▰▰▰▱▱
-           Java · Spring      ▰▰▰▰▰▰▱▱▱▱
-FRONTEND   React · RN/Expo    ▰▰▰▰▰▰▰▰▱▱
-DADOS      MySQL · EF Core    ▰▰▰▰▰▰▰▱▱▱
-DEVOPS     Docker             ▰▰▰▰▱▱▱▱▱▱   ← subindo de nível
-ARQUITETURA  Clean Arch.      ▰▰▰▰▰▱▱▱▱▱   ← em treino
+LINGUAGENS   C#                      ▰▰▰▰▰▰▰▰▱▱
+             Java                    ▰▰▰▰▰▰▰▰▱▱
+             JavaScript              ▰▰▰▰▰▰▰▱▱▱
+             PHP                     ▰▰▰▰▱▱▱▱▱▱
+
+BACKEND      ASP.NET Core 8          ▰▰▰▰▰▰▰▰▱▱
+             Entity Framework Core   ▰▰▰▰▰▰▰▱▱▱
+             Spring Boot             ▰▰▰▰▰▰▱▱▱▱
+             Node.js                 ▰▰▰▰▰▱▱▱▱▱
+             APIs REST               ▰▰▰▰▰▰▰▰▱▱
+
+FRONTEND     React                   ▰▰▰▰▰▰▰▰▱▱
+             React Native · Expo     ▰▰▰▰▰▰▰▰▱▱
+             Tailwind · Bootstrap    ▰▰▰▰▰▰▰▱▱▱
+             Electron                ▰▰▰▰▱▱▱▱▱▱   ← em treino
+             Next.js                 ▰▰▰▰▱▱▱▱▱▱
+             UI/UX · Figma           ▰▰▰▰▰▰▰▱▱▱
+
+DADOS        MySQL                   ▰▰▰▰▰▰▰▰▱▱
+             PostgreSQL              ▰▰▰▰▰▰▰▱▱▱   ← subindo de nível
+             MongoDB                 ▰▰▰▰▱▱▱▱▱▱
+             Modelagem relacional    ▰▰▰▰▰▰▰▱▱▱
+
+DEVOPS       Docker · Compose        ▰▰▰▰▰▰▰▱▱▱
+             Git · GitHub            ▰▰▰▰▰▰▰▰▱▱
+             Linux (Ubuntu)          ▰▰▰▰▰▰▰▰▰▱
+             AWS                     ▰▰▰▰▰▰▱▱▱▱   ← em treino
+
+ARQUITETURA  Camadas (C→S→R)         ▰▰▰▰▰▰▰▰▱▱
+             Clean Architecture      ▰▰▰▰▰▱▱▱▱▱   ← em treino
+             Modular Monolith        ▰▰▰▰▰▰▰▱▱▱
+
+IA           Integração Claude API   ▰▰▰▰▰▱▱▱▱▱
+             LLMs locais · Ollama    ▰▰▰▱▱▱▱▱▱▱   ← em treino
 ```
+
 
 ---
 
