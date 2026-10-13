@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0d1117,50:4c1d95,100:8b5cf6&text=MATHEUS%20GOMES&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=PLAYER%20ONE%20%C2%B7%20desenvolvedor%20%2F%20estudante%20%2F%20criador&descAlignY=58&descSize=15" alt="Matheus Gomes" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0d1117,50:ea580c,100:facc15&text=MATHEUS%20GOMES&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=PLAYER%20ONE%20%C2%B7%20desenvolvedor%20%2F%20estudante%20%2F%20criador&descAlignY=58&descSize=15" alt="Matheus Gomes" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=820&height=40&lines=%3E+Full-Stack+Developer+%2F%2F+.NET+%2B+React+%2B+Spring+Boot;Java+%7C+JavaScript+%7C+C%23+%7C+PHP;Interfaces+%7C+Jogos+%7C+Aplicativos;Sempre+aprendendo+algo+novo." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=2800&pause=900&color=FACC15&center=true&vCenter=true&width=820&height=40&lines=%3E+Full-Stack+Developer+%2F%2F+.NET+%2B+React+%2B+Spring+Boot;Java+%7C+JavaScript+%7C+C%23+%7C+PHP;Interfaces+%7C+Jogos+%7C+Aplicativos;Sempre+aprendendo+algo+novo." alt="Typing SVG" />
 
 <br/>
 
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-22c55e?style=for-the-badge&labelColor=0d1117)
-![Classe](https://img.shields.io/badge/CLASSE-FULL--STACK-8b5cf6?style=for-the-badge&labelColor=0d1117)
-![Base](https://img.shields.io/badge/BASE-S%C3%83O%20PAULO%20%F0%9F%87%A7%F0%9F%87%B7-0ea5e9?style=for-the-badge&labelColor=0d1117)
+![Classe](https://img.shields.io/badge/CLASSE-FULL--STACK-f97316?style=for-the-badge&labelColor=0d1117)
+![Base](https://img.shields.io/badge/BASE-S%C3%83O%20PAULO%20%F0%9F%87%A7%F0%9F%87%B7-facc15?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
@@ -138,7 +138,7 @@ IA           Integração Claude API   ▰▰▰▰▰▱▱▱▱▱
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=yskillo&theme=dark&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=yskillo&theme=dark&background=0D1117&ring=F97316&fire=FACC15&currStreakLabel=F97316&currStreakNum=FACC15" alt="GitHub Streak" />
   </a>
 </p>
 
@@ -163,8 +163,8 @@ IA           Integração Claude API   ▰▰▰▰▰▱▱▱▱▱
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&height=30&lines=Ei+desenvolvedor(a)%2C+volte+sempre!;Insert+coin+to+collaborate+%E2%96%B6" alt="subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=700&height=30&lines=Ei+desenvolvedor(a)%2C+volte+sempre!;Insert+coin+to+collaborate+%E2%96%B6" alt="subtitle" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:8b5cf6,50:4c1d95,100:0d1117&section=footer" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:facc15,50:ea580c,100:0d1117&section=footer" alt="" />
 
 </div>
