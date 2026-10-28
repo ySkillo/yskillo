@@ -1,170 +1,158 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0d1117,50:ea580c,100:facc15&text=MATHEUS%20GOMES&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=PLAYER%20ONE%20%C2%B7%20desenvolvedor%20%2F%20estudante%20%2F%20criador&descAlignY=58&descSize=15" alt="Matheus Gomes" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,60:7c2d12,100:ea580c&text=Matheus%20Gomes&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Desenvolvedor%20Full-Stack&descAlignY=56&descSize=20" alt="Matheus Gomes" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=2800&pause=900&color=FACC15&center=true&vCenter=true&width=820&height=40&lines=%3E+Full-Stack+Developer+%2F%2F+.NET+%2B+React+%2B+Spring+Boot;Java+%7C+JavaScript+%7C+C%23+%7C+PHP;Interfaces+%7C+Jogos+%7C+Aplicativos;Sempre+aprendendo+algo+novo." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=760&height=40&lines=Backend+com+C%23+%2F+.NET+8+e+Java+%2F+Spring+Boot;Front-end+com+React+e+React+Native;APIs+seguras%2C+bancos+de+dados+e+interfaces+bem+feitas;Criando+software+com+impacto+social" alt="Typing SVG" />
 
 <br/>
 
-![Status](https://img.shields.io/badge/STATUS-ONLINE-22c55e?style=for-the-badge&labelColor=0d1117)
-![Classe](https://img.shields.io/badge/CLASSE-FULL--STACK-f97316?style=for-the-badge&labelColor=0d1117)
-![Base](https://img.shields.io/badge/BASE-S%C3%83O%20PAULO%20%F0%9F%87%A7%F0%9F%87%B7-facc15?style=for-the-badge&labelColor=0d1117)
+<a href="https://yskillo.github.io/portifolio">
+  <img src="https://img.shields.io/badge/Portf%C3%B3lio-f97316?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio" />
+</a>
+<a href="https://www.linkedin.com/in/matheus-gomes-40a529222/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:matheus.gfront@gmail.com">
+  <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=yskillo&label=Visitas&color=ea580c&style=for-the-badge" alt="Visitas" />
 
 </div>
 
 <br/>
 
-## 🎮 Ficha do jogador
+## Sobre mim
 
-```
-┌─ PLAYER 1 ───────────────────────────────────────────────────────────┐
-│ NOME      Matheus Gomes  (ySkillo)                                   │
-│ CLASSE    Full-Stack Developer                                       │
-│ GUILDA    SPTech · Análise e Desenvolvimento de Sistemas             │
-│ ORIGEM    Etec Guaianases · Téc. Desenvolvimento de Sistemas         │
-│ BASE      São Paulo, Brasil                                          │
-│ MISSÃO    Criar software com impacto social                          │
-│ GOSTA DE  jogos · interfaces gráficas · bancos de dados              │
-│           backend e front-end                                        │
-└──────────────────────────────────────────────────────────────────────┘
-```
+Sou desenvolvedor full-stack, estudante de **Análise e Desenvolvimento de Sistemas na SPTech** e técnico em Desenvolvimento de Sistemas pela **Etec Guaianases**. Moro em São Paulo e meu foco é **backend com C#/.NET 8** (ASP.NET Core, EF Core) e **Java/Spring Boot**, além de front-end com **React** e **React Native/Expo**.
 
-Desenvolvedor full-stack com foco em **backend com C#/.NET 8** (ASP.NET Core, EF Core) e **Java/Spring Boot**, e no front com **React** e **React Native/Expo**. Gosto de construir produtos do começo ao fim, da modelagem do banco e da API até a interface, com boas práticas e código organizado.
+Gosto de construir produtos do começo ao fim: da modelagem do banco e da API até a interface, com boas práticas e código organizado. Minha missão é criar software com impacto social.
 
 ---
 
-## 📊 Atributos
+## Destaques
 
-```
-LINGUAGENS   C#                      ▰▰▰▰▰▰▰▰▱▱
-             Java                    ▰▰▰▰▰▰▰▰▱▱
-             JavaScript              ▰▰▰▰▰▰▰▱▱▱
-             PHP                     ▰▰▰▰▱▱▱▱▱▱
-
-BACKEND      ASP.NET Core 8          ▰▰▰▰▰▰▰▰▱▱
-             Entity Framework Core   ▰▰▰▰▰▰▰▱▱▱
-             Spring Boot             ▰▰▰▰▰▰▱▱▱▱
-             Node.js                 ▰▰▰▰▰▱▱▱▱▱
-             APIs REST               ▰▰▰▰▰▰▰▰▱▱
-
-FRONTEND     React                   ▰▰▰▰▰▰▰▰▱▱
-             React Native · Expo     ▰▰▰▰▰▰▰▰▱▱
-             Tailwind · Bootstrap    ▰▰▰▰▰▰▰▱▱▱
-             Electron                ▰▰▰▰▱▱▱▱▱▱   ← em treino
-             Next.js                 ▰▰▰▰▱▱▱▱▱▱
-             UI/UX · Figma           ▰▰▰▰▰▰▰▱▱▱
-
-DADOS        MySQL                   ▰▰▰▰▰▰▰▰▱▱
-             PostgreSQL              ▰▰▰▰▰▰▰▱▱▱   ← subindo de nível
-             MongoDB                 ▰▰▰▰▱▱▱▱▱▱
-             Modelagem relacional    ▰▰▰▰▰▰▰▱▱▱
-
-DEVOPS       Docker · Compose        ▰▰▰▰▰▰▰▱▱▱
-             Git · GitHub            ▰▰▰▰▰▰▰▰▱▱
-             Linux (Ubuntu)          ▰▰▰▰▰▰▰▰▰▱
-             AWS                     ▰▰▰▰▰▰▱▱▱▱   ← em treino
-
-ARQUITETURA  Camadas (C→S→R)         ▰▰▰▰▰▰▰▰▱▱
-             Clean Architecture      ▰▰▰▰▰▱▱▱▱▱   ← em treino
-             Modular Monolith        ▰▰▰▰▰▰▰▱▱▱
-
-IA           Integração Claude API   ▰▰▰▰▰▱▱▱▱▱
-             LLMs locais · Ollama    ▰▰▰▱▱▱▱▱▱▱   ← em treino
-```
-
-
----
-
-## 🏆 Conquistas desbloqueadas
-
-- 🛒 **Cliente real:** e-commerce criado para um cliente de verdade
-- 📱 **Mobile:** app React Native/Expo com builds de APK via EAS
-- 🔐 **Segurança:** autenticação JWT, hash com BCrypt e validação de CPF
-- 🐳 **Containers:** API .NET rodando com Docker + MySQL
+- 🛒 **Projeto para cliente real:** e-commerce desenvolvido sob demanda
+- 📱 **Mobile:** app em React Native/Expo com builds de APK via EAS
+- 🔐 **Segurança:** autenticação JWT, hash de senhas com BCrypt e validação de CPF
+- 🐳 **Containers:** API .NET com Docker e MySQL
 - 🤖 **IA:** integração com a API do Claude em um e-commerce
 
 ---
 
-## 🎒 Inventário
+## Stack
 
 <div align="center">
 
-### linguagens de programação
+<h3 align="center">Backend</h3>
 
-<br/>
+<table align="center">
+  <tr>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=cs&theme=dark" width="56" height="56" alt="C#" /><br/><sub><b>C#</b></sub></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=dotnet&theme=dark" width="56" height="56" alt=".NET" /><br/><sub><b>.NET</b></sub></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="56" height="56" alt="Java" /><br/><sub><b>Java</b></sub></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=spring&theme=dark" width="56" height="56" alt="Spring Boot" /><br/><sub><b>Spring Boot</b></sub></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=php&theme=dark" width="56" height="56" alt="PHP" /><br/><sub><b>PHP</b></sub></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="56" height="56" alt="Node.js" /><br/><sub><b>Node.js</b></sub></td>
+  </tr>
+</table>
 
-![JavaScript](https://skillicons.dev/icons?i=js)
-![Java](https://skillicons.dev/icons?i=java)
-![PHP](https://skillicons.dev/icons?i=php)
-![C#](https://skillicons.dev/icons?i=cs)
+<h3 align="center">Front-end e mobile</h3>
 
-<br/><br/>
+<table align="center">
+  <tr>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="56" height="56" alt="JavaScript" /><br/><sub><b>JavaScript</b></sub></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="56" height="56" alt="React" /><br/><sub><b>React</b></sub></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="56" height="56" alt="Next.js" /><br/><sub><b>Next.js</b></sub></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="56" height="56" alt="Tailwind CSS" /><br/><sub><b>Tailwind CSS</b></sub></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="56" height="56" alt="Bootstrap" /><br/><sub><b>Bootstrap</b></sub></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=electron&theme=dark" width="56" height="56" alt="Electron" /><br/><sub><b>Electron</b></sub></td>
+  </tr>
+</table>
 
-### ferramentas & frameworks
+<h3 align="center">Bancos de dados</h3>
 
-<br/>
+<table align="center">
+  <tr>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="56" height="56" alt="MySQL" /><br/><sub><b>MySQL</b></sub></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="56" height="56" alt="PostgreSQL" /><br/><sub><b>PostgreSQL</b></sub></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="56" height="56" alt="MongoDB" /><br/><sub><b>MongoDB</b></sub></td>
+  </tr>
+</table>
 
-![React](https://skillicons.dev/icons?i=react)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Git](https://skillicons.dev/icons?i=git)
-![VSCode](https://skillicons.dev/icons?i=vscode)
-![Eclipse](https://skillicons.dev/icons?i=eclipse)
+<h3 align="center">IDEs e editores</h3>
 
-<br/><br/>
+<table align="center">
+  <tr>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="56" height="56" alt="VS Code" /><br/><sub><b>VS Code</b></sub></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" width="56" height="56" alt="Visual Studio" /><br/><sub><b>Visual Studio</b></sub></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=rider&theme=dark" width="56" height="56" alt="Rider" /><br/><sub><b>Rider</b></sub></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=idea&theme=dark" width="56" height="56" alt="IntelliJ IDEA" /><br/><sub><b>IntelliJ IDEA</b></sub></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=eclipse&theme=dark" width="56" height="56" alt="Eclipse" /><br/><sub><b>Eclipse</b></sub></td>
+  </tr>
+</table>
 
-### itens equipados nos projetos
+<h3 align="center">APIs, gestão e design</h3>
 
-<br/>
+<table align="center">
+  <tr>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="56" height="56" alt="Postman" /><br/><sub><b>Postman</b></sub></td>
+    <td align="center" width="120"><img src="https://cdn.simpleicons.org/bruno/F4AA41" width="56" height="56" alt="Bruno" /><br/><sub><b>Bruno</b></sub></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="56" height="56" alt="Figma" /><br/><sub><b>Figma</b></sub></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="56" height="56" alt="Git" /><br/><sub><b>Git</b></sub></td>
+  </tr>
+</table>
 
-![.NET](https://skillicons.dev/icons?i=dotnet)
-![Spring](https://skillicons.dev/icons?i=spring)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-![Electron](https://skillicons.dev/icons?i=electron)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![Docker](https://skillicons.dev/icons?i=docker)
-![AWS](https://skillicons.dev/icons?i=aws)
-![Figma](https://skillicons.dev/icons?i=figma)
-![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
+<h3 align="center">Infra e sistemas</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="56" height="56" alt="Docker" /><br/><sub><b>Docker</b></sub></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=aws&theme=dark" width="56" height="56" alt="AWS" /><br/><sub><b>AWS</b></sub></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="56" height="56" alt="Linux" /><br/><sub><b>Linux</b></sub></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" width="56" height="56" alt="Ubuntu" /><br/><sub><b>Ubuntu</b></sub></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=windows&theme=dark" width="56" height="56" alt="Windows" /><br/><sub><b>Windows</b></sub></td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-## 📈 Histórico de partida
+## Estatísticas
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=yskillo&theme=dark&background=0D1117&ring=F97316&fire=FACC15&currStreakLabel=F97316&currStreakNum=FACC15" alt="GitHub Streak" />
-  </a>
-</p>
+<div align="center">
 
-<picture align="center">
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yskillo&theme=gruvbox) | ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yskillo&theme=gruvbox) |
+| :-: | :-: |
+
+</div>
+
+---
+
+## Atividade
+
+<div align="center">
+
+| [![GitHub Streak](https://streak-stats.demolab.com/?user=yskillo&theme=gruvbox&background=0D1117&ring=F97316&fire=F97316&currStreakLabel=F97316&currStreakNum=FFFFFF&hide_border=true)](https://git.io/streak-stats) | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yskillo&theme=gruvbox) |
+| :-: | :-: |
+
+</div>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yskillo/yskillo/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yskillo/yskillo/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yskillo/yskillo/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yskillo/yskillo/output/github-contribution-grid-snake.svg">
+  <img alt="Animação das contribuições" src="https://raw.githubusercontent.com/yskillo/yskillo/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ---
 
-## 🕹️ PRESS START
+## Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/matheus-gomes-40a529222/">
-    <img src="https://img.shields.io/badge/LinkedIn-Matheus_Gomes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:matheus.gfront@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-matheus.gfront@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  Aberto a oportunidades e colaborações.<br/>
+  <a href="https://www.linkedin.com/in/matheus-gomes-40a529222/">LinkedIn</a> ·
+  <a href="mailto:matheus.gfront@gmail.com">matheus.gfront@gmail.com</a> ·
+  <a href="https://yskillo.github.io/portifolio">Portfólio</a>
 </p>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=700&height=30&lines=Ei+desenvolvedor(a)%2C+volte+sempre!;Insert+coin+to+collaborate+%E2%96%B6" alt="subtitle" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:facc15,50:ea580c,100:0d1117&section=footer" alt="" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0d1117,60:7c2d12,100:ea580c&section=footer" alt="" />
