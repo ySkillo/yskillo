@@ -41,80 +41,37 @@ Gosto de construir produtos do começo ao fim: da modelagem do banco e da API at
 
 ## Stack
 
-<div align="center">
-
-<h3 align="center">Backend</h3>
-
-<table align="center">
-  <tr>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=cs&theme=dark" width="56" height="56" alt="C#" /><br/><sub><b>C#</b></sub></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=dotnet&theme=dark" width="56" height="56" alt=".NET" /><br/><sub><b>.NET</b></sub></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="56" height="56" alt="Java" /><br/><sub><b>Java</b></sub></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=spring&theme=dark" width="56" height="56" alt="Spring Boot" /><br/><sub><b>Spring Boot</b></sub></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=php&theme=dark" width="56" height="56" alt="PHP" /><br/><sub><b>PHP</b></sub></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="56" height="56" alt="Node.js" /><br/><sub><b>Node.js</b></sub></td>
-  </tr>
-</table>
-
-<h3 align="center">Front-end e mobile</h3>
-
-<table align="center">
-  <tr>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="56" height="56" alt="JavaScript" /><br/><sub><b>JavaScript</b></sub></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="56" height="56" alt="React" /><br/><sub><b>React</b></sub></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="56" height="56" alt="Next.js" /><br/><sub><b>Next.js</b></sub></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="56" height="56" alt="Tailwind CSS" /><br/><sub><b>Tailwind CSS</b></sub></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="56" height="56" alt="Bootstrap" /><br/><sub><b>Bootstrap</b></sub></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=electron&theme=dark" width="56" height="56" alt="Electron" /><br/><sub><b>Electron</b></sub></td>
-  </tr>
-</table>
-
-<h3 align="center">Bancos de dados</h3>
-
-<table align="center">
-  <tr>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="56" height="56" alt="MySQL" /><br/><sub><b>MySQL</b></sub></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="56" height="56" alt="PostgreSQL" /><br/><sub><b>PostgreSQL</b></sub></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="56" height="56" alt="MongoDB" /><br/><sub><b>MongoDB</b></sub></td>
-  </tr>
-</table>
-
-<h3 align="center">IDEs e editores</h3>
-
-<table align="center">
-  <tr>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="56" height="56" alt="VS Code" /><br/><sub><b>VS Code</b></sub></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" width="56" height="56" alt="Visual Studio" /><br/><sub><b>Visual Studio</b></sub></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=rider&theme=dark" width="56" height="56" alt="Rider" /><br/><sub><b>Rider</b></sub></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=idea&theme=dark" width="56" height="56" alt="IntelliJ IDEA" /><br/><sub><b>IntelliJ IDEA</b></sub></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=eclipse&theme=dark" width="56" height="56" alt="Eclipse" /><br/><sub><b>Eclipse</b></sub></td>
-  </tr>
-</table>
-
-<h3 align="center">APIs, gestão e design</h3>
-
-<table align="center">
-  <tr>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="56" height="56" alt="Postman" /><br/><sub><b>Postman</b></sub></td>
-    <td align="center" width="120"><img src="https://cdn.simpleicons.org/bruno/F4AA41" width="56" height="56" alt="Bruno" /><br/><sub><b>Bruno</b></sub></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="56" height="56" alt="Figma" /><br/><sub><b>Figma</b></sub></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="56" height="56" alt="Git" /><br/><sub><b>Git</b></sub></td>
-  </tr>
-</table>
-
-<h3 align="center">Infra e sistemas</h3>
-
-<table align="center">
-  <tr>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="56" height="56" alt="Docker" /><br/><sub><b>Docker</b></sub></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=aws&theme=dark" width="56" height="56" alt="AWS" /><br/><sub><b>AWS</b></sub></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="56" height="56" alt="Linux" /><br/><sub><b>Linux</b></sub></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" width="56" height="56" alt="Ubuntu" /><br/><sub><b>Ubuntu</b></sub></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=windows&theme=dark" width="56" height="56" alt="Windows" /><br/><sub><b>Windows</b></sub></td>
-  </tr>
-</table>
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs&theme=dark" height="40" alt="cs" />
+  <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" height="40" alt="dotnet" />
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" height="40" alt="java" />
+  <img src="https://skillicons.dev/icons?i=spring&theme=dark" height="40" alt="spring" />
+  <img src="https://skillicons.dev/icons?i=php&theme=dark" height="40" alt="php" />
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="40" alt="nodejs" />
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" height="40" alt="js" />
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" height="40" alt="react" />
+  <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="40" alt="nextjs" />
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="40" alt="tailwind" />
+  <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" height="40" alt="bootstrap" />
+  <img src="https://skillicons.dev/icons?i=electron&theme=dark" height="40" alt="electron" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="40" alt="mysql" />
+  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="40" alt="postgres" />
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="40" alt="mongodb" />
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" height="40" alt="docker" />
+  <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="40" alt="aws" />
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" height="40" alt="linux" />
+  <img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" height="40" alt="ubuntu" />
+  <img src="https://skillicons.dev/icons?i=windows&theme=dark" height="40" alt="windows" />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="40" alt="git" />
+  <img src="https://skillicons.dev/icons?i=postman&theme=dark" height="40" alt="postman" />
+  <img src="https://cdn.simpleicons.org/bruno/F4AA41" height="40" alt="Bruno" />
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" height="40" alt="figma" />
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="40" alt="vscode" />
+  <img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" height="40" alt="visualstudio" />
+  <img src="https://skillicons.dev/icons?i=rider&theme=dark" height="40" alt="rider" />
+  <img src="https://skillicons.dev/icons?i=idea&theme=dark" height="40" alt="idea" />
+  <img src="https://skillicons.dev/icons?i=eclipse&theme=dark" height="40" alt="eclipse" />
+</p>
 
 ---
 
